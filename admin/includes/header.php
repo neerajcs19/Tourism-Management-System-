@@ -9,7 +9,9 @@
 									<li class="dropdown profile_details_drop">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
 											<div class="profile_img">	
-												<span class="prfil-img"><img src="images/User-icon.png" alt=""> </span> 
+												<span class="prfil-img">
+													<img src="images/User-icon.png" alt=""> 
+												</span> 
 												<div class="user-name">
 													<p>Welcome</p>
 													<span>Administrator</span>
